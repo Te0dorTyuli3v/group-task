@@ -1,0 +1,20 @@
+{
+    "schedule": [
+    {
+        "contractor": "Eminem",
+        "place": "Sofia",
+        "time": "21:00"
+    },
+    {
+        "contractor": "Metalica",
+        "place": "Sofia",
+        "time": "22:00"
+    },
+    {
+        "contractor": "De Staat",
+        "place": "Burgas",
+        "time": "18:00"
+    }
+
+    ]
+  }
